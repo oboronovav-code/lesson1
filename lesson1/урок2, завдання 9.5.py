@@ -1,3 +1,4 @@
+#5. Знайти кількість парних цифр у заданому числі.
 chislo = int(input("Введіть число: "))
 kilkist = 0
 for cifra in str(chislo):
